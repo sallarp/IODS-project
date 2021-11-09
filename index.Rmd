@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Salla-Riikka Pekonen"
 output:
   html_document:
     theme: cosmo
